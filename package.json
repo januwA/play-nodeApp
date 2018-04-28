@@ -1,0 +1,14 @@
+{
+  "name": "play-nodeApp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "./node_modules/.bin/supervisor ./app.js"
+  },
+  "repository": "https://github.com/januwA/play-nodeApp.git",
+  "author": "januwA <ajanuw1641845087@sina.com>",
+  "license": "MIT",
+  "dependencies": {
+    "supervisor": "^0.12.0"
+  }
+}
